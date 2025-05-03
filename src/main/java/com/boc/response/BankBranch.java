@@ -3,7 +3,7 @@
 package com.boc.response;
 
 /*
-Created By SaiMadan on May 24, 2017
+Created By Gihan on May 24, 2017
 */
 public class BankBranch {
 	String bankCode;

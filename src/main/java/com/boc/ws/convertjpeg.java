@@ -12,7 +12,7 @@ import java.io.IOException;
 
 
 /*
-Created By SaiMadan on Mar 27, 2017
+Created By Gihan on Mar 27, 2017
 */
 public class convertjpeg {
 

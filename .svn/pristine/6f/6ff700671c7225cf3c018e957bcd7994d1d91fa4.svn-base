@@ -1,6 +1,6 @@
 package com.boc.dao.exceptions;
 /*
-Create By SaiMadan on Jun 21, 2016
+Create By Gihan on Jun 21, 2016
 */
 public class DAOException extends RuntimeException{
 

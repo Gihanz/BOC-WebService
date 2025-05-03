@@ -15,7 +15,7 @@ import javax.naming.directory.DirContext;
 import javax.naming.directory.InitialDirContext;
 
 /*
-Created By SaiMadan on Oct 19, 2016
+Created By Gihan on Oct 19, 2016
 */
 public class LDAPConnect {
 

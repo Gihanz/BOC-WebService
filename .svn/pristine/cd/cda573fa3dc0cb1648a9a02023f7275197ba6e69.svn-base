@@ -5,7 +5,7 @@ package com.boc.response;
 import java.util.List;
 
 /*
-Created By SaiMadan on Aug 1, 2016
+Created By Gihan on Aug 1, 2016
 */
 public class HomeLoanProductRs 
 {

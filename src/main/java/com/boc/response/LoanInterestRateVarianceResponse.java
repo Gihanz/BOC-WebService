@@ -5,7 +5,7 @@ package com.boc.response;
 import java.math.BigDecimal;
 
 /*
-Created By SaiMadan on Nov 7, 2016
+Created By Gihan on Nov 7, 2016
 */
 public class LoanInterestRateVarianceResponse {
 

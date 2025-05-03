@@ -15,7 +15,7 @@ import com.boc.dao.BankBranchDao;
 import com.boc.service.BankBranchService;
 
 /*
-Created By SaiMadan on May 24, 2017
+Created By Gihan on May 24, 2017
 */
 @Service
 @Configurable
